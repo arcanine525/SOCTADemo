@@ -1,2 +1,2 @@
 # SOCTADemo
-Simple Car Booking App with React Native
+Simple Football-field Booking App with React Native and Firebase
